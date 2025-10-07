@@ -35,3 +35,5 @@ if __name__ == "__main__":
     # Test the square root feature
     num3 = 25
     print(f"The square root of {num3} = {calculator.square_root(num3)}")
+
+
